@@ -22,12 +22,12 @@ pip install yt-dlp
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-video-downloader.git
+   git clone https://github.com/bokem29/yt-dlp-gui.git
    ```
 2. Install the required dependencies.
 3. Run the Python script:
    ```bash
-   python downloader.py
+   python main.py
    ```
 4. Enter the YouTube video URL and select the folder to save the downloaded video.
 
