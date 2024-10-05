@@ -1,6 +1,6 @@
 
 # YouTube Video Downloader
-A simple Python-based YouTube video downloader with a GUI built using tkinter.
+A simple YouTube video downloader built using Python and tkinter for a graphical user interface.
 
 ## Features
 - Download YouTube videos by URL
